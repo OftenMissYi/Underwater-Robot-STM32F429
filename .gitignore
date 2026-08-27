@@ -1,0 +1,41 @@
+# Keil / ARM Compiler build output
+
+Objects/
+Listings/
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.obj
+*.o
+*.dep
+*.crf
+*.d
+*.htm
+
+# Keil generated files
+
+*.bak
+*.iex
+*.lnp
+*.sct
+
+# Debug / simulation output
+
+DebugConfig/
+JLinkLog.txt
+*.log
+
+# IDE / editor files
+
+.vscode/
+.idea/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+!keilkill.bat
