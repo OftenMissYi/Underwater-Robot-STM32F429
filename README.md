@@ -12,12 +12,14 @@ The project combines **STM32F429-based embedded control, FreeRTOS, sensor integr
 
 ## Overview
 
-The goal of this project was to design and implement the electrical control system of an underwater robot, including MCU-based motion and gripper control.
+The project focused on the design and implementation of the electrical and embedded control system of an underwater robot, covering system architecture, onboard electrical integration, MCU-based motion and gripper control, and higher-level robotic functions.
 
 The embedded system integrates multiple sensors, communication interfaces and control modules to support both remote and autonomous operation.
 
 Key components of the system include:
 
+* Electrical system architecture and onboard equipment integration
+* Modular electrical equipment layout and installation
 * STM32F429-based embedded control
 * FreeRTOS task-based system architecture
 * Multi-axis motion control
@@ -341,4 +343,4 @@ The project strengthened my understanding of how **low-level embedded control in
 Developed as part of the **Robotic Comprehensive Practice** course at Chongqing University.
 
 **Project period:** 24.06.2024 – 05.08.2024
-**Role:** Embedded control system design and implementation
+**Role:** Electrical system integration and embedded control
